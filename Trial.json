@@ -26,17 +26,17 @@
     [
         {
             "movieName" : "RHJ City Winery v1",
-            "movieThumbnail" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Thumbnail.png?raw=true",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie1.png",
             "movieUrl" : "https://www.youtube.com/watch?v=BixuTM_f4so"
         },
         {
             "movieName" : "Snow Raven (Suor)",
-            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1ovqzrOi57xJM5TTRYXZnV5EnaIezeQlL",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie2.jpg",
             "movieUrl" : "https://youtu.be/cWvY9aYb3ww"
         },
         {
             "movieName" : "Elysium Dreams",
-            "movieThumbnail" : "https://drive.google.com/uc?export=download&id=1MAwWEXEmOYzLBgXyaw0yy6zO-zfNC8xe",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie3.jpg",
             "movieUrl" : "https://youtu.be/2JVm04bT9LY"
         }
     ]
