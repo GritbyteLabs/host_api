@@ -1,0 +1,44 @@
+{
+    "Hotfeed" :
+    [
+        {
+            "text" : "Hi! This is Rockstar Raaz. Checkout my new album releasing this March 'TIDIN TIN MUSTAFA' ",
+            "imageUrl" : "https://raw.githubusercontent.com/GritbyteTest/MusicGallery/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-LivingTheDream_scaled.jpg"
+        },
+        {
+            "text" : "AAA KICHIK",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-MaydayMayday_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "JAI SADHU MAHARAJ",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-NaturesSanctuary_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "KINGSTON KANISKAR",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Copy%20of%20Daanoe-RaysOfGrace_scaled.jpg?raw=true"
+        },
+        {
+            "text" : "MONTY MADUVE MANGALAVARA, OOTA KE BANNI SHANIVARA",
+            "imageUrl" : "https://github.com/GritbyteTest/MusicGallery/blob/891233f8d707f3d169ecb060b6f5d5e09c95203b/Daanoe-IndustrialLight_scaled.jpg?raw=true"
+        }
+    ],
+    "Movies" :
+    [
+        {
+            "movieName" : "RHJ City Winery v1",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie1.png",
+            "movieUrl" : "https://drive.google.com/file/d/19GQBeoJ9q9TDygWxdl3GZjwXt3w8S0Gk/view?usp=sharing"
+        },
+        {
+            "movieName" : "Snow Raven (Suor)",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie2.jpg",
+            "movieUrl" : "https://drive.google.com/file/d/19GQBeoJ9q9TDygWxdl3GZjwXt3w8S0Gk/view?usp=sharing"
+        },
+        {
+            "movieName" : "Elysium Dreams",
+            "movieThumbnail" : "https://gritbytelabs.github.io/host_api/movie3.jpg",
+            "movieUrl" : "https://vrtheatre.b-cdn.net/ElysiumDreamsVRPART1_03-14-24.mp4"
+        }
+    ]
+}
+
